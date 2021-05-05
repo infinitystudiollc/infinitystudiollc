@@ -1,3 +1,4 @@
+google.com, pub-4450264630914156, DIRECT, f08c47fec0942fa0
 google.com, pub-7839649756834603, DIRECT, f08c47fec0942fa0 /Premium Google AdX Demand by rradvisory.llp@gmail.com
 google.com, pub-6968738577620513, RESELLER, f08c47fec0942fa0
 google.com, pub-8268618999035658, RESELLER, f08c47fec0942fa0
