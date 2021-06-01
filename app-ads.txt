@@ -10,3 +10,12 @@ algorix.co, 60134, DIRECT, 5b394c12fea27a1d
 openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
 pubnative.net, 1007262, RESELLER, d641df8625486a7b
+
+
+nextmillennium.io, 15658, DIRECT, 65bd090fa4a1e3d6
+google.com, pub-8606804482029683, RESELLER, f08c47fec0942fa0
+facebook.com, 590126751405962, RESELLER, c3e20eee3f780d68
+appnexus.com, 9284, DIRECT, f5ab79cb980f11d1
+pubmatic.com, 157689, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157577, DIRECT, 5d62403b186f2ace
+
