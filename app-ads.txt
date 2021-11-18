@@ -18,7 +18,6 @@ Inmobi.com,a5e661acdc384e91a79a58eb3418e99f,RESELLER,83e75a7ae333ca9d
 facebook.com, 1149223445501693, DIRECT, c3e20eee3f780d68
 
 
-
 nextmillennium.io, 15653, DIRECT, 65bd090fa4a1e3d6
 google.com, pub-8606804482029683, RESELLER, f08c47fec0942fa0
 facebook.com, 590126751405962, RESELLER, c3e20eee3f780d68
