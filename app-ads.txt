@@ -1,6 +1,8 @@
 google.com, pub-4450264630914156, DIRECT, f08c47fec0942fa0
 facebook.com, 496434047897706, DIRECT, c3e20eee3f780d68
 
+google.com, pub-3184487253168181, DIRECT, f08c47fec0942fa0
+
 
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 adcolony.com, 35c95674451fce1c, RESELLER, 1ad675c9de6b5176
